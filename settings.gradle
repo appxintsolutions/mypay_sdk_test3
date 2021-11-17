@@ -1,0 +1,3 @@
+include ':mypay'
+include ':app'
+rootProject.name = "MyPaySdk"
